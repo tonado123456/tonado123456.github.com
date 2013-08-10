@@ -1,13 +1,13 @@
 ---
 layout: post
-title : "你好世界"
-category : "杂文"
-tagline: "测试文章"
+title : 你好世界
+category : 杂文
+tagline: 测试文章
 tags : [intro, beginner, 你好, 世界]
 ---
 {% include JB/setup %}
 
-你好，世界！\r\n
+你好，世界！<br />
 第一篇博客文章作为测试用。
 
 ## Next Steps
