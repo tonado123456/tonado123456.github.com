@@ -10,6 +10,7 @@ tags : [intro, beginner, 你好, 世界]
 你好，世界！<br />
 第一篇博客文章作为测试用。<br />
 下面献上一首好听的歌曲，欢迎大家的到访!<br />
+<embed src="http://www.xiami.com/widget/0_1772061205/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
     汪峰 - 存在
 多少人走着却困在原地
