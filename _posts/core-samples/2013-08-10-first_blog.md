@@ -1,7 +1,7 @@
 ---
 layout: post
-title : 你好世界
-category : 杂文
+title : "你好世界"
+category : "杂文"
 tagline: "测试文章"
 tags : [intro, beginner, 你好, 世界]
 ---
