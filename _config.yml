@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /blog/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -17,6 +17,7 @@ author :
   github : tonado123456
   twitter : tonado123456
   feedburner : tonado
+  qqzone : 更多个人信息请访问QQ空间 <a href="http://user.qzone.qq.com/805762353/infocenter">>>点击进入</a>
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
