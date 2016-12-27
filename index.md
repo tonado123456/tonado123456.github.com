@@ -32,6 +32,10 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
 Here's a sample "posts list".
 
+## Our Photos
+
+<img src="{{ ASSET_PATH }}/images/index/we.jpg" />
+
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
