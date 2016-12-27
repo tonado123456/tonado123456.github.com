@@ -34,7 +34,7 @@ Here's a sample "posts list".
 
 ## Our Photos
 
-<img src="{{ ASSET_PATH }}/images/index/we.jpg" />
+<img src="{{ ASSET_PATH }}/../images/index/we.jpg" />
 
 <ul class="posts">
   {% for post in site.posts %}
