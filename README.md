@@ -4,7 +4,7 @@ The quickest way to start and publish your Jekyll powered blog. 100% compatible 
 
 ## License
 
-tonado123456.github.com
+[tonado123456.github.com](tonado123456.github.com)
 
 个人博客
 
